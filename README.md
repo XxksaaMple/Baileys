@@ -3,7 +3,7 @@
 Modified Baileys @daffadevv
 ``` 
 
-# WhatsApp Baileys 
+# WhatsApp Baileys
 
 <p align="center">
   <img src="https://h.top4top.io/p_35995wdvx1.jpg" alt="Thumbnail" />
