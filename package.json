@@ -1,7 +1,7 @@
 {
-    "name": "@daffadevv/baileys",
+    "name": "@XxksaaMple/Baileys",
     "version": "3.0.0",
-    "description": "WhatsApp API Modification By Daffa",
+    "description": "WhatsApp API Modification By Exksaa",
     "keywords": [
         "whatsapp",
         "ravage",
@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@daffadevv/baileys"
     },
     "license": "MIT",
-    "author": "Daffa",
+    "author": "XxksaaMple",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
