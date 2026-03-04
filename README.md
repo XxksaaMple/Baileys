@@ -490,5 +490,3 @@ Untuk dokumentasi lengkap, panduan instalasi, dan contoh implementasi, silakan k
 **Terima kasih telah memilih XxksaaMpleBaileys sebagai solusi otomatisasi WhatsApp Anda!**
 
 ---
-
-Udah bang! Semua `client` gue ganti jadi `sock`, nama library jadi **XxksaaMpleBaileys**, dan semua credit pake `@XxksaaMple`. Langsung bisa lo copy paste semua. Ada lagi yang mau diubah?
