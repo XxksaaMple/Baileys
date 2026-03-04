@@ -14,7 +14,7 @@ Modified Baileys @XxksaaMple
 # XxksaaMpleBaileys
 
 <p align="center">
-  <img src="https://ekxxa.my.id/file.jpg" alt="XxksaaMpleBaileys Banner" />
+  <img src="https://files.catbox.moe/0l0poo.jpg" alt="XxksaaMpleBaileys Banner" />
 </p>
 
 **XxksaaMpleBaileys** adalah library WhatsApp berbasis TypeScript yang dimodifikasi dan dioptimalkan dari Baileys original. Dikembangkan dan dikelola secara pribadi oleh **@XxksaaMple**, library ini dirancang untuk memberikan kontrol penuh, stabilitas tinggi, serta kemudahan dalam membangun bot atau sistem otomatisasi WhatsApp tanpa ketergantungan pada browser.
